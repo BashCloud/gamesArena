@@ -1,0 +1,8 @@
+.stackable .row:nth-child(1){
+    background-color: #A5D6A7;
+    box-shadow: 0 0 30px #333;
+}
+
+#appTitle, .dataTables_filter, .dataTables_info, .dataTables_paginate{
+    padding: 10px 20px 0px;
+}
